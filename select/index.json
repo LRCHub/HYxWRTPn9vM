@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "みくみくにしてあげる♪【してやんよ】",
+  "base_artist": "ika",
+  "createdAt": "2025-12-01T09:41:10.940129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "Ika feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_みくみくにしてあげる♪【してやんよ】_Ika_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "ika feat.初音ミク",
+      "has_synced": true,
+      "path": "select/02_みくみくにしてあげる♪【してやんよ】_ika_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】(ゆうゆP Euro Arrange)",
+      "artist": "ALVINE feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/03_みくみくにしてあげる♪【してやんよ】(ゆうゆP_Euro_Arrange)_ALVINE_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "Ika Mo feat. 陸上自衛隊 中央音楽隊",
+      "has_synced": false,
+      "path": "select/04_みくみくにしてあげる♪【してやんよ】_Ika_Mo_feat._陸上自衛隊_中央音楽隊.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる【してやんよ】",
+      "artist": "ミッヒ",
+      "has_synced": false,
+      "path": "select/05_みくみくにしてあげる【してやんよ】_ミッヒ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "Ika",
+      "has_synced": true,
+      "path": "select/06_みくみくにしてあげる♪【してやんよ】_Ika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/07_みくみくにしてあげる♪【してやんよ】_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】ORIGINAL COVER",
+      "artist": "NIYARI計画",
+      "has_synced": true,
+      "path": "select/08_みくみくにしてあげる♪【してやんよ】ORIGINAL_COVER_NIYARI計画.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】 -MIKU EXPO 2014 in INDONESIA Live-",
+      "artist": "Ika",
+      "has_synced": true,
+      "path": "select/09_みくみくにしてあげる♪【してやんよ】_-MIKU_EXPO_2014_in_INDONESIA_Live-_Ika.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】 -MIKU EXPO 2014 in INDONESIA Live-",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/10_みくみくにしてあげる♪【してやんよ】_-MIKU_EXPO_2014_in_INDONESIA_Live-_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/11_みくみくにしてあげる♪【してやんよ】_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "ika_mo feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/12_みくみくにしてあげる♪【してやんよ】_ika_mo_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "ika_mo",
+      "has_synced": true,
+      "path": "select/13_みくみくにしてあげる♪【してやんよ】_ika_mo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "Ika",
+      "has_synced": true,
+      "path": "select/14_みくみくにしてあげる♪【してやんよ】_Ika.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "ika",
+      "has_synced": false,
+      "path": "select/15_みくみくにしてあげる♪【してやんよ】_ika.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/16_みくみくにしてあげる♪【してやんよ】_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みくみくにしてあげる♪ 【してやんよ】",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_みくみくにしてあげる♪_【してやんよ】_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_みくみくにしてあげる♪【してやんよ】_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_みくみくにしてあげる♪【してやんよ】_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_みくみくにしてあげる♪【してやんよ】_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "みくみくにしてあげる♪【してやんよ】",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_05_みくみくにしてあげる♪【してやんよ】_初音ミク.txt"
+    }
+  ]
+}
